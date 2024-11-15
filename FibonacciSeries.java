@@ -10,6 +10,9 @@ public class FibonacciSeries {
 		
 		int firstTerm = 0, secondTerm=1;
 		System.out.println("Fibonacci"+n+" terms: ");
+
+		System.out.println("Fibonacci"+n+" terms: ");
+
 		for (int i=0; i<=n;i++) {
 			System.out.println(firstTerm +" ");
 			int nextTerm = firstTerm+secondTerm;

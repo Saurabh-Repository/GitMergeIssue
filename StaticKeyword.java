@@ -25,6 +25,8 @@ public class StaticKeyword {
 
     public static String getData() {
         System.out.println("Sky is blue");
+
+        System.out.println("Sky is blue");
         return "";
     }
 }
